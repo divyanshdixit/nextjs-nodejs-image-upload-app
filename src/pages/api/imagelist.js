@@ -1,4 +1,4 @@
-import { PrismaClient } from '@prisma/client/edge'
+import { PrismaClient } from '../../prisma/generated/client/edge';
 import 'dotenv/config';
 import jwt from 'jsonwebtoken';
 
