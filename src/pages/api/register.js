@@ -1,4 +1,4 @@
-import { PrismaClient } from '../../prisma/generated/client/edge'
+import { PrismaClient } from '../../../prisma/generated/client'
 import 'dotenv/config';
 import bcrypt from 'bcrypt';
 
